@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](media/joey.gif)
+![](https://media.giphy.com/media/Y6OITrN9Y7G0M/giphy.mp4)
 
 <!--
 **kforkaran/kforkaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
