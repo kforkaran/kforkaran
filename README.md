@@ -6,3 +6,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kforkaran&hide=TeX&layout=compact)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kforkaran.kforkaran)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka
