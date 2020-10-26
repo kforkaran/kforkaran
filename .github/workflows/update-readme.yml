@@ -1,9 +1,6 @@
-name: Waka Readme
+name: update-readme
 
-on:
-  schedule:
-    # Runs at 12am IST
-    - cron: "* * * * *"
+on: [push]
 
 jobs:
   update-readme:
