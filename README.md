@@ -76,7 +76,7 @@ Jupyter Notebook         7 repos             ███░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://github.com/kforkaran/kforkaran/blob/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/kforkaran/kforkaran/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
